@@ -16,8 +16,6 @@ public class TareaPoo {
     public static void main(String[] args) {
         Tareapo tarea = new Tareapo();
         tarea.setVisible(true);
-        
-        System.out.println("hmm");
     }
     
 }
